@@ -357,7 +357,7 @@ void countStudents()
         count++;
     }
 
-    fclose(fp);
+    fclose(fp); //comment.jfjeem..
 
     printf("\nTotal Students = %d\n",count);
 }
