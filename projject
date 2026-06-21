@@ -1,4 +1,4 @@
-//Student portal management
+//Student Portal Management
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
